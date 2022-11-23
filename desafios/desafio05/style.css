@@ -1,0 +1,16 @@
+body {
+background-color:#E2E0FF;
+}
+h1 {
+    text-align: center;
+}
+section {
+    text-align: center;
+}
+article {
+    text-align: center;
+}
+article > img {
+    border-radius: 50%;
+    box-shadow: 4px 3px 9px 0px black;
+}
